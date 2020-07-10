@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "908017008794",
+    "firebase_url": "https://househunters-0216.firebaseio.com",
+    "project_id": "househunters-0216",
+    "storage_bucket": "househunters-0216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908017008794:android:cad30d0c647c157137df23",
+        "android_client_info": {
+          "package_name": "com.hypermedia.househunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908017008794-86hr3runl2tbhgulrvb0smg44vpfvs1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hypermedia.househunt",
+            "certificate_hash": "5c13e9daf5d4a330fa560942fc03331258f4d5b6"
+          }
+        },
+        {
+          "client_id": "908017008794-55p4ord0np7fna7ut87nbgh52hh5hi7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwn_ppAwRGKFKy4u3etAW7mW3LUBX7DQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908017008794-55p4ord0np7fna7ut87nbgh52hh5hi7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
